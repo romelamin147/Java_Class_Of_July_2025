@@ -15,6 +15,9 @@ public class NewClass {
         int d = 78;
         System.out.println(d);
 
+        String e = "This is a git test";
+        System.out.println(e);
+
 
     }
 }
